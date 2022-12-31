@@ -5,6 +5,9 @@
 }
 
 body{
-    background: blue;
+    background: red;
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
