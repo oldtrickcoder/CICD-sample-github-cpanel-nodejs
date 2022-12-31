@@ -5,7 +5,7 @@
 }
 
 body{
-    background: linear-gradient(45deg,purple,navy,red,orange,yellow);
+    background: linear-gradient(45deg,purple,navy,red,orange,yellow) no-repeat cover;
     color: white;
     display: flex;
     flex-direction: column;
